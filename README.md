@@ -1,2 +1,11 @@
-# Date-Picker-with-Angular2-master
-Date-picker-Angular2
+# Angular 2  Datepicker
+
+
+### Usage
+```
+npm install
+
+npm install angular2-material-datepicker
+
+npm start
+
